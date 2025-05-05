@@ -8,9 +8,9 @@ Recommendation systems are at the heart of platforms like Amazon, Netflix, and S
 
 ## Tech Stack and Tools
 
-**Environment** : Google Colab
-**Language** : Python
-**Libraries** : 
+- **Environment** : Google Colab
+- **Language** : Python
+- **Libraries** : 
 - pandas, numpy - Data handling
 - matplotlib, seaborn - Visualization
 - scikit-learn - ML utilities
