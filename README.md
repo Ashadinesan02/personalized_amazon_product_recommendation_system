@@ -11,10 +11,10 @@ Recommendation systems are at the heart of platforms like Amazon, Netflix, and S
 - **Environment** : Google Colab
 - **Language** : Python
 - **Libraries** : 
-- pandas, numpy - Data handling
-- matplotlib, seaborn - Visualization
-- scikit-learn - ML utilities
-- scikit-surprise - Recommendation algorithms
+  - pandas, numpy - Data handling
+  - matplotlib, seaborn - Visualization
+  - scikit-learn - ML utilities
+  - scikit-surprise - Recommendation algorithms
 
 ## Project Workflow
 
